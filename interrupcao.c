@@ -1,5 +1,6 @@
 /*
     Programa em C para simular um processo de interrupção
+    2015
 */
 
 # include <stdio.h>
@@ -7,7 +8,7 @@
 void rotinaDoDisco()  // Definição da função "rotinaDoDisco"
 {
     printf("Atendendo solicitação do Disco...\n");
-    sleep(2); //espera dois segundos
+    sleep(2); //espera dois segundos, simulando o processamento do driver
 
 }
 
