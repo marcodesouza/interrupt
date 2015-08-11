@@ -3,7 +3,7 @@
 */
 
 # include <stdio.h>
-
+/////////////////////////////////////////
 void rotinaDoDisco()  // Definição da função "rotinaDoDisco"
 {
     printf("Atendendo solicitação do Disco...\n");
