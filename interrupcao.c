@@ -7,7 +7,7 @@
 
 void rotinaDoDisco()  // Definição da função "rotinaDoDisco"
 {
-    printf("Atendendo solicitação aos Disco...\n");
+    printf("Atendendo solicitação ao Disco...\n");
     sleep(2); //espera dois segundos, simulando o processamento do driver
 
 }
@@ -17,7 +17,7 @@ int main() {
     char loop='t'; // loop recebe 't' (true)
 
     printf("Selecione \n \
-    d - para uma interupção de disco \n \
+    d - para uma interrupção de disco \n \
     s - para sair ");
 
 
