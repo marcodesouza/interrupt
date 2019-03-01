@@ -36,6 +36,6 @@ while(loop != 'f'){ // enquanto a variavel loop for diferente de 'f' , faça
              break;
     }
     }
-    printf("Fim\n");
+    printf("Fim.\n");
     return 0;
 }
